@@ -23,8 +23,8 @@ class App extends React.Component {
         { title: 'Contact', path: '/contact' }
       ],
       home: {
-        title: 'Learn about me!',
-        subTitle: 'Projects',
+        title: 'Hi welcome to my website!',
+        subTitle: 'I am a Senior at Southern Methodist University',
         text: 'Learn more about what I have worked on'
       },
       about: {
