@@ -1,3 +1,36 @@
+# ManovSite
+
+This is a web application I created using React so that I could showcase myself and my projects!
+
+## Tools used:
+1. React
+2. Firebase
+3. emailJS
+4. Bootstrap and React-strap
+5. Javascript, HTML, CSS
+
+## Author
+Manov Jain
+
+## Resources and credit to other creators
+https://youtu.be/41-jn5tdg50 - Coding with Glove
+https://youtu.be/NgWGllOjkbs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
