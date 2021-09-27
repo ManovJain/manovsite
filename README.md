@@ -13,8 +13,8 @@ This is a web application I created using React so that I could showcase myself 
 Manov Jain
 
 ## Resources and credit to other creators
-https://youtu.be/41-jn5tdg50 - Coding with Glove
-https://youtu.be/NgWGllOjkbs
+1. https://youtu.be/41-jn5tdg50 - Coding with Glove
+2. https://youtu.be/NgWGllOjkbs
 
 
 
